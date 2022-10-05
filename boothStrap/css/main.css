@@ -1,0 +1,26 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+  padding-left: 23px;
+  padding-right: 23px;
+}
+
+.contact {
+  background-color: #28293e;
+  padding-top: 80px;
+  padding-bottom: 76px;
+}
+.contact .formContainer {
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 57px 28px 48px;
+}
+.contact .formContainer .title {
+  font-size: 24px;
+  line-height: 32px;
+  color: #391400;
+  margin-top: 0;
+  margin-bottom: 28px;
+}/*# sourceMappingURL=main.css.map */
